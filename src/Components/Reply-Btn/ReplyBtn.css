@@ -1,0 +1,13 @@
+.replybtn{
+    display: flex;
+    align-items: center;
+    background-color: initial;
+    cursor: pointer;
+    margin: 0;
+    width: 100px;
+    border: none;
+   justify-content: space-around;
+   position: relative;
+   color: hsl(212, 24%, 26%);
+   font-family: sans-serif;
+}

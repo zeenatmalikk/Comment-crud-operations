@@ -1,0 +1,10 @@
+
+.new-input{
+    min-width: 700px;
+    height: 57px;
+    border-radius: 8px;
+    border: 1px solid #333;
+    outline: none;
+    margin: 10px 10px;
+    position: sticky;
+}

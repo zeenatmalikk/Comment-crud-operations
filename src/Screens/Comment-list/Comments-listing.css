@@ -1,0 +1,21 @@
+
+.enter-comment {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  background-color: hsl(239, 57%, 85%);
+  position: fixed;
+  bottom: 0;
+  
+}
+.submit-comment {
+  width: 150px;
+  height: 50px;
+  border-radius: 6px;
+  background-color: #324152;
+  color: #fff;
+  border: 1px solid hsl(212, 24%, 26%);
+cursor: pointer;
+  font-size: 16px;
+}
